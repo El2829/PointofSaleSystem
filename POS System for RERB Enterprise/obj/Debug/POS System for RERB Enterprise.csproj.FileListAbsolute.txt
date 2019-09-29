@@ -1,0 +1,60 @@
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\bin\Debug\POS System for RERB Enterprise.exe.config
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\bin\Debug\POS System for RERB Enterprise.exe
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\bin\Debug\POS System for RERB Enterprise.pdb
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\bin\Debug\MySql.Data.dll
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\bin\Debug\MySql.Data.xml
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.LoginForm.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Properties.Resources.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csproj.GenerateResource.cache
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csproj.CoreCompileInputs.cache
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csproj.CopyComplete
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.exe
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.pdb
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.MainForm.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Pages.Users.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Pages.Dashboard.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AdminLoginHistory.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddUser.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddCategory.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddProduct.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Category.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Product.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddCompany.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ForgotForm.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Supplier.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.PointofSale.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ReportStockIn.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csprojAssemblyReference.cache
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Payment.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ReportStockOut.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.EditUser.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ReportDaily.resources
+C:\Users\El2829\Documents\Thesis\RERB Enterprise\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.EditUser1.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csprojAssemblyReference.cache
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.exe
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.pdb
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddCategory.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddCompany.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddProduct.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AddUser.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.AdminLoginHistory.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Category.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Pages.Dashboard.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.EditUser.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.EditUser1.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ForgetForm.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.LoginForm.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.MainForm.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Payment.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.PointofSale.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Product.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ReportDaily.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ReportStockIn.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.ReportStockOut.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.U_Supplier.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Pages.Users.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Properties.Resources.resources
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csproj.GenerateResource.cache
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS System for RERB Enterprise.csproj.CoreCompileInputs.cache
+C:\Users\El2829\Documents\POS System for RERB Enterprise\POS System for RERB Enterprise\obj\Debug\POS_System_for_RERB_Enterprise.Suppliers.resources
